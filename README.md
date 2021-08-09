@@ -88,11 +88,11 @@ The extraction and transformation of the Wikipedia data in the ETL function does
 
 Here are the links for each delivery items mentioned above:
 
-1)
+1) https://github.com/saranyadurairaju/Module8-Final-Assignment-Analysis/blob/main/ETL_function_test.ipynb
 
-2)
+2) https://github.com/saranyadurairaju/Module8-Final-Assignment-Analysis/blob/main/ETL_clean_wiki_movies.ipynb
 
-3)
+3) https://github.com/saranyadurairaju/Module8-Final-Assignment-Analysis/blob/main/ETL_clean_kaggle_data.ipynb
 
 
 #### Movie Database Creation
@@ -123,21 +123,21 @@ In our program, the elapsed time to add the data to the database is displayed li
 
 Below are the links for database creation and Resource folder:
 
-4)
+4) https://github.com/saranyadurairaju/Module8-Final-Assignment-Analysis/blob/main/ETL_create_database.ipynb
 
-5)
+5) https://github.com/saranyadurairaju/Module8-Final-Assignment-Analysis/tree/main/Resources
 
 
 So, this Movies-ETL(Module8-Final-Assignment-Analysis) GitHub repository contains the below list of items:
 
-*The ETL_function_test.ipynb file
+* The ETL_function_test.ipynb file
 
-*The ETL_clean_wiki_movies.ipynb file
+* The ETL_clean_wiki_movies.ipynb file
 
-*The ETL_clean_kaggle_data.ipynb file
+* The ETL_clean_kaggle_data.ipynb file
 
-*The ETL_create_database.ipynb file
+* The ETL_create_database.ipynb file
 
-*The Resources folder with the wikipedia.movies.json, movies_metadata.csv, movies_query.png, and ratings_query.png files.
+* The Resources folder with the wikipedia.movies.json, movies_metadata.csv, movies_query.png, and ratings_query.png files.
 
 **Hurry! Database is ready for Hackathon!!!**
